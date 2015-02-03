@@ -1,2 +1,2 @@
 # datasciencecoursera
-this is a repo created for the Data Scientist's Toolboc course
+this is a repo created for the Data Scientist's Toolbox course
